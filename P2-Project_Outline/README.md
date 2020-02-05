@@ -9,10 +9,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+PC-EZ will have individual user account functionality, wikipedia-style information pages for manufacturers and parts, and side-by-side comparison tables.
 ### Technologies
-Include Technologies here
+PC-EZ is built using C#, .NET, and MySQL.
 ### What I'll Have to Learn
-Include what you will need to learn here
+I would like to eventually integrate an API to fetch live price information from online retailers, but that is one of the lower-priority features. I'd also like to learn to store picture files (or URLs) into my database, so that users can have profile pictures.
 ### Project Tracker
-Link to your Trello board here
+https://docs.google.com/document/d/1NOSdFx-XR1qhUVpNS_TIXQuM3QnEMGOBRz0AFHFBx1U/edit?usp=sharing
